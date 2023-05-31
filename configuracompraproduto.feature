@@ -96,7 +96,7 @@ E pode selecionar minhas preferencias para o produto novamente
 
 Cenário: Botão limpar volta o produto aos parâmetros iniciais
 Dado que eu acesse a página de produtos da EBAC-SHOP
-E tenha selecionado errado algum campo obrigatório (cor, tamanho ou quantidade) do produto escolhido
+E tenha selecionado errado algum campo obrigatório do produto escolhido
 Quando eu clicar no botão limpar
 Então os parâmetros escolhidos anteriormente serão restaurados para o estado original
 
